@@ -1,4 +1,4 @@
 # BankMIS
 A simple Bank Management Information System
 
-Implementations in Python and PHPs
+Implementations in Python and PHP
